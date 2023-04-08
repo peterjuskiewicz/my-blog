@@ -1,1 +1,13 @@
-{"data":{"site":{"siteMetadata":{"author":{"name":"Peter Juskiewicz","summary":"who is a React Developer working at Ocado Technology."},"social":{"twitter":"kylemathews"}}}}}
+{
+  "data": {
+    "site": {
+      "siteMetadata": {
+        "author": {
+          "name": "Peter Juskiewicz",
+          "summary": "who is a React Developer working at Ocado Technology."
+        },
+        "social": { "twitter": "peterjuskiewicz" }
+      }
+    }
+  }
+}
