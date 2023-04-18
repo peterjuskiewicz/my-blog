@@ -1,7 +1,7 @@
 ---
-title: Play With Google Search
+title: Google Search Cheatsheet
 date: "2023-04-18T22:17:00.284Z"
-description: "Improved Google Searches"
+description: "Google Searche Cheatsheet"
 ---
 
 It's easy to improve your Google searches. You just need to learn some basic tools.
